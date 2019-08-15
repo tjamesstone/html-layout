@@ -1,0 +1,104 @@
+body {
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+    margin: 10px auto;
+    padding: 20 px auto;
+
+
+  
+}
+
+.header {
+    background-color: white;
+    width: 90%;
+    height: 25vh;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    margin: 5px auto;
+    
+}
+
+.purple{
+    width: 50px;
+    height: 80%;
+    background-color: purple;
+    float: left;
+    margin: 10px ;
+
+
+}
+
+.green{
+    width: 35%;
+    height: 80%;
+    background-color: green;
+    float: left;
+    margin: 10px ;
+
+
+}
+
+.dot {
+    height: 130px;
+    width: 130px;
+    background-color: lightblue;
+    border-radius: 50%;
+    display: block;
+    margin: 10px auto;
+    float: center;
+
+    
+  }
+
+.middle {
+    background-color: white;
+    width: 90%;
+    height: 30vh;
+    border-color: black;
+    border-width: 4px;
+    border-style: dotted;
+    margin: 5px auto;
+    text-align: center;
+}
+
+.yellow{
+    width: 70%;
+    height: 80%;
+    background-color: lightyellow;
+    text-align: center;
+    margin: 1% 15%;
+    
+    box-shadow: 5px 5px black;
+
+
+
+}
+
+.footer {
+    background-color: white;
+    width: 90%;
+    height: 45vh;
+    margin: 5px auto;
+}
+
+.text{
+    width: 40%;
+    height: 80%;
+    background-color: white;
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    letter-spacing: 9px;
+    margin: 1% 30%;
+    font-size: 200%;
+    color: darkblue;
+    box-shadow: 2px 2px lightgrey;
+    font-weight: bold;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
